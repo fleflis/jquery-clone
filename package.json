@@ -1,0 +1,10 @@
+{
+  "name": "jquery-clone",
+  "version": "1.0.0",
+  "description": "A small jQuery clone made from scratch",
+  "main": "index.js",
+  "repository": "https://github.com/fleflis/jquery-clone.git",
+  "author": "Christian Sanches <christian@endless-point.org>",
+  "license": "MIT",
+  "private": true
+}
